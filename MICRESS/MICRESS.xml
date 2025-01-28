@@ -1,0 +1,12 @@
+<root wfxml_version="2.0">
+  <WFControl name="AdvancedForEach" type="AdvancedFor" is_file_iterator="False">
+    <WFControl name="SubWF" type="SubWorkflow">
+      <WaNo type="MICRESS-EarlyStageGrowth" uuid="13061979-65c2-42c9-8002-9044954df421" id="0" name="MICRESS-EarlyStageGrowth"/>
+    </WFControl>
+    <FileList>
+      <File>[999,998,997.5]</File>
+    </FileList>
+    <IterName>initial_temperature</IterName>
+  </WFControl>
+  <WaNo type="MICRESS-PlotPhaseFractions" uuid="824db24e-c1bb-4669-b543-6a581640caeb" id="1" name="MICRESS-PlotPhaseFractions"/>
+</root>

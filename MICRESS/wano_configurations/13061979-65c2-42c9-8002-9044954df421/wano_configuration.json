@@ -1,0 +1,12 @@
+{
+    "commands": {},
+    "values": {
+        "Process Conditions": {
+            "Initial Temperature": "import_from:${initial_temperature}"
+        }
+    },
+    "metadata": {
+        "name": "MICRESS",
+        "folder": "MICRESS-EarlyStageGrowth"
+    }
+}

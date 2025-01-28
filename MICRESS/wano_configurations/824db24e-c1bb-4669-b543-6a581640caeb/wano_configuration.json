@@ -1,0 +1,29 @@
+{
+    "commands": {
+        "Plot.Data.Y": 1
+    },
+    "values": {
+        "Input": {
+            "Filename": "global://AdvancedForEach/*/MICRESS-EarlyStageGrowth/outputs/output.yml"
+        },
+        "Plot": {
+            "Data": {
+                "Y": [
+                    {
+                        "Column": "Fraction Phase 1",
+                        "Label": "{input[Process Conditions][Initial Temperature]} K"
+                    }
+                ]
+            },
+            "Labels": {
+                "Title": "Grain Evolution",
+                "Y-Axis": "Solid Fraction",
+                "Legend": "Initial Temperature"
+            }
+        }
+    },
+    "metadata": {
+        "name": "MICRESS",
+        "folder": "MICRESS-PlotPhaseFractions"
+    }
+}

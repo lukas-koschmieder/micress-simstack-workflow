@@ -1,0 +1,6 @@
+[submodule "MICRESS/wanos/MICRESS-EarlyStageGrowth"]
+	path = MICRESS/wanos/MICRESS-EarlyStageGrowth
+	url = https://github.com/lukas-koschmieder/MICRESS-EarlyStageGrowth
+[submodule "MICRESS/wanos/MICRESS-PlotPhaseFractions"]
+	path = MICRESS/wanos/MICRESS-PlotPhaseFractions
+	url = https://github.com/lukas-koschmieder/MICRESS-PlotPhaseFractions
