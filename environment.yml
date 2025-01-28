@@ -1,0 +1,10 @@
+name: simstack-micress
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - jinja2
+  - matplotlib
+  - pyyaml
+  - pip:
+      - micress-micpy
