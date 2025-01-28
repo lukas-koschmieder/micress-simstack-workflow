@@ -1,6 +1,6 @@
 {
   "workflow_environment": "simstack",
-  "title": "MICRESS Benchmark of Early-Stage Growth from Liquid State",
+  "title": "MICRESS Benchmark of Early-Stage Growth from Liquid State (SimStack)",
   "authors": [
     "Lukas Koschmieder <l.koschmieder@access-technology.de>",
     "Janin Eiken <j.eiken@access-technology.de>"
